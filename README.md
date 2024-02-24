@@ -20,9 +20,9 @@ cd /mnt/c/Tensorflow\ Object\ Detection/TFODCourse      # Set destination to our
 source tfod2/bin/activate      # Activate the environment
 
 Step 4. Install dependencies and add virtual environment to the Python Kernel
-python -m pip install --upgrade pip
-pip install ipykernel
-python -m ipykernel install --user --name=tfod
+1.python -m pip install --upgrade pip
+2.pip install ipykernel
+3.python -m ipykernel install --user --name=tfod
 
 
 Step5.After activate environment  type " Jupyter Notebook " to open the code
