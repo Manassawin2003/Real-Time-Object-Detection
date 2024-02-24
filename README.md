@@ -1,4 +1,4 @@
-SET UP cmd By Manassawin
+SET UP cmd 
 
 Step 1.Clone this repository: https://github.com/nicknochnack/TFODCourse
 
