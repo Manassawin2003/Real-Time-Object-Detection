@@ -4,7 +4,8 @@ Step 1.Clone this repository: https://github.com/nicknochnack/TFODCourse
 
 Step 2. Step 2. Create a new virtual environment
 
-             python -m venv tfod
+python -m venv tfod
+            
 
 
                                   WINDOW 11
