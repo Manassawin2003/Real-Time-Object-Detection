@@ -1,7 +1,12 @@
 SET UP cmd By Manassawin
 
+Step 1.Clone this repository: https://github.com/nicknochnack/TFODCourse
 
-                                    WINDOW 11
+Step 2. Step 2. Create a new virtual environment
+             python -m venv tfod
+
+
+                                  WINDOW 11
 
 cd C:\Tensorflow Object Detection\TFODCourse    # Set destination to our project
 .\tfod\Scripts\activate                                              # Activate the environment
@@ -15,6 +20,9 @@ source tfod2/bin/activate                                                       
 
 After activate environment  type " Jupyter Notebook " to open the code
 
+Do the Image Collection first then Training and Detection
+
+After That Run The code step by step. If it Error or can't find a Modules, Go download it.
 
                                See The Statistics of our Train and Evaluate
 
