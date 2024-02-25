@@ -19,7 +19,7 @@ cd C:\Tensorflow Object Detection\TFODCourse    # Set destination to our project
 cd /mnt/c/Tensorflow\ Object\ Detection/TFODCourse      # Set destination to our project
 source tfod2/bin/activate      # Activate the environment
 
-Step 4. Install dependencies and add virtual environment to the Python Kernel
+Install dependencies and add virtual environment to the Python Kernel
 1.python -m pip install --upgrade pip
 2.pip install ipykernel
 3.python -m ipykernel install --user --name=tfod
